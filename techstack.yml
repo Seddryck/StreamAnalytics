@@ -1,7 +1,8 @@
 repo_name: Seddryck/StreamAnalytics
 report_id: 3b7b4a9afda7e643f812823ec2e88f26
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T20:22:48+00:00'
+timestamp: '2024-01-05T08:47:55+00:00'
 requested_by: Seddryck
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Seddryck/StreamAnalytics
   detection_source: Repo Metadata
